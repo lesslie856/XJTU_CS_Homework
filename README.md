@@ -4,8 +4,3 @@ XJTU 西安交通大学 CS 计算机 作业
 ## 数据结构单独放出来了 https://github.com/lesslie856/DataStructure_Exp-XJTU
 
 
-
-# 另外
-## 评教记得给WLX 这SB剑冢差评
-## RNM不会教书滚一边去搞行政
-## 带的什么几把实验还有数电
